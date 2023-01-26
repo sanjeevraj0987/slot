@@ -92,5 +92,5 @@ Execute the program
 
 
 # OUPUT
-![OUTPUT](.png)
+![OUTPUT](screenshot.png)
 ```
