@@ -95,12 +95,4 @@ Execute the program
 
 # OUPUT
 ![OUTPUT](Screenshot%20(5).png)
-=======
 
-=======
->>>>>>> 36bdaa44cf47a37bc64b5e23562b395f1aa4008f
-
-# OUPUT
-
-```
->>>>>>> 5e5c4e2a7a6b1a27d0635887b54a299c34234771
