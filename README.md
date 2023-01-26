@@ -89,7 +89,15 @@ Execute the program
 <br>
 </body>
 </html>
+<<<<<<< HEAD
 ```
 
 # OUPUT
 ![OUTPUT](Screenshot%20(5).png)
+=======
+
+
+# OUPUT
+![OUTPUT](screenshot.png)
+```
+>>>>>>> 5e5c4e2a7a6b1a27d0635887b54a299c34234771
